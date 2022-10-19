@@ -9,7 +9,7 @@
 <!--
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=sangilji)](https://solved.ac/sangilji)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gsl0515)](https://solved.ac/gsl0515)
 
 **sangilji/sangilji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
