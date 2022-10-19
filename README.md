@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/java-3766AB?style=flat-square&logo=java&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
 <!--
 **sangilji/sangilji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
