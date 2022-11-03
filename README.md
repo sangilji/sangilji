@@ -6,7 +6,8 @@
 <br>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangilji&layout=compact)](https://github.com/sangilji/github-readme-stats)
+  
+
   
 </div>
 
@@ -27,14 +28,13 @@
 <br>
 <div align="center">
 
-![sangilji's github stats](https://github-readme-stats.vercel.app/api?username=sangilji&show_icons=true)
-
-
+  
 
 
 
 <!--
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangilji&layout=compact)](https://github.com/sangilji/github-readme-stats)
+![sangilji's github stats](https://github-readme-stats.vercel.app/api?username=sangilji&show_icons=true)
 
 **sangilji/sangilji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
