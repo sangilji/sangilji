@@ -2,7 +2,6 @@
   
   ### Hi there 👋
   🌱 I’m currently learning Java, Spring, SpringBoot!
-  
 </div>
 <br>
 <div align="center">
