@@ -22,6 +22,7 @@
 <p/><br>
 <div align="center">
   
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gsl0515)](https://solved.ac/gsl0515/)
 
 <br>
