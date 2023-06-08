@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> 
   
-<p/><br><br>
+<p/><br>
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gsl0515)](https://solved.ac/gsl0515/)
