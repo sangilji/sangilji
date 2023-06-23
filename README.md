@@ -3,11 +3,15 @@
   ### Hi there 👋
   🌱 I’m currently learning Java, Spring, SpringBoot!
 </div>
+
 <br>
+
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangilji&langs_count=10&layout=compact&theme=white)](https://github.com/sangilji/sangilji)
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangilji&langs_count=10&layout=compact&theme=white) ](https://github.com/sangilji/sangilji)
 </div>
+
+<br>
 
 <p align="center">
   <Strong>📧Email📧</Strong><br>gsl0505@naver.com<br><br>
