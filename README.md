@@ -1,8 +1,5 @@
 <div align="center">
   
-  ### Hi there 👋
-  🌱 I’m currently learning Java, Spring, SpringBoot!
-
   ## Portfolio
   ### [바로가기](https://drive.google.com/file/d/16CwXMiw50EtC6O9dZxeBCA5Xc8PZVaxx/view?usp=sharing)
 ![image](https://github.com/sangilji/sangilji/assets/88275989/35d3a724-640c-496a-80e4-f0c577e73f57)
